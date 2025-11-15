@@ -22,7 +22,7 @@
 #include <Update.h>
 
 ////////////////////////////////////////
-const char* version   = "0.1.5";        //
+const char* version   = "0.1.6";        //
 const char* type      = "esp32s3-zero"; //
 const char* device_id = "1234567890";   //
 ////////////////////////////////////////
